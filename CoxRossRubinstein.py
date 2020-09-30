@@ -1,4 +1,4 @@
-# Cox-Ross-Rubenstein for Eurpean and American style options
+# Cox-Ross-Rubinstein for Eurpean and American style options
 
 #Code is straightorward and only numpy is required
 
