@@ -7,7 +7,7 @@ import numpy as np
 
 #S        -> Spot price of the underlying
 #K        -> Strike price for the option
-#sigma    -> Underlying volatility annualized
+#sigma    -> Annualized volatility of the underlying
 #r        -> continously compounded risk-free rate
 #T        -> option's time to expiration in years
 #steps    -> number of steps to be calculated in the tree
